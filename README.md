@@ -1,5 +1,5 @@
 # docker-composer
-PHP composer docker container
+PHP Composer docker container
 
 # How to use
 
